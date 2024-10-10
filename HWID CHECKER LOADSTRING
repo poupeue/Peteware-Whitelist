@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/poupeue/Peteware-Whitelist/refs/heads/main/HWID%20CHECKER%20PROTECTED.lua",true))()
